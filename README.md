@@ -1,6 +1,3 @@
-# hospital-readmission-analysis
-Analysis of hospital readmission patterns among diabetic patients using UCI dataset
-
 # Hospital Readmission Analysis
 This project analyzes hospital readmission patterns among diabetic patients using the UCI Diabetes 130-US hospitals dataset.
 
